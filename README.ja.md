@@ -20,26 +20,6 @@
 
 写真の語られていない関係を、格子柄の綿、麻、洗いざらしの粗布、ほつれ、パッチ、見える手縫いによる現代的な布絵へ再構成します。余白は同行、距離、成長、滞在、帰属、出会い、時間を担います。
 
-## この Skill が必要な理由
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-read the unspoken relation → preserve three recognition cues → delete literal scenery → cut essential forms into source-colour fabrics → layer, crop, overlap, and let selected forms escape → make stitching and frayed edges physical → reserve whitespace for distance and time → embroider one unfinished-feeling phrase
-```
-
-無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## ビジュアル契約
-
-- **元写真への拘束：** 写真を、温かな人文的パッチワーク物語へ縫い直す
-- **スタイルDNA：** 元写真の布色 · ほつれた縁 · 手縫い · 能動的余白 · 隠れた感情
-- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
-- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
-- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
-
-美的制約と拒否項目は[原文プロンプト](references/038-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-038-prompt.en.md)
-
 ## 作例 · X より
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090807474467291568) · 2026-08-21<br>
@@ -59,6 +39,26 @@ read the unspoken relation → preserve three recognition cues → delete litera
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090807474467291568">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 038 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+## この Skill が必要な理由
+
+このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
+
+```text
+read the unspoken relation → preserve three recognition cues → delete literal scenery → cut essential forms into source-colour fabrics → layer, crop, overlap, and let selected forms escape → make stitching and frayed edges physical → reserve whitespace for distance and time → embroider one unfinished-feeling phrase
+```
+
+無関係な写真に替えても認識、構造、配置、素材、色、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
+
+## ビジュアル契約
+
+- **元写真への拘束：** 写真を、温かな人文的パッチワーク物語へ縫い直す
+- **スタイルDNA：** 元写真の布色 · ほつれた縁 · 手縫い · 能動的余白 · 隠れた感情
+- **識別性：** 元写真固有の手掛かりを三つ以上保ち、無関係な写真なら構造も実質的に変わること。
+- **構図：** 一つの主体または不可分の関係、元写真に根拠のある配置、能動的な余白を守ること。
+- **素材と色：** 固定テンプレートではなく、写真から導き、プロジェクト固有の生成仕様に従うこと。
+
+美的制約と拒否項目は[原文プロンプト](references/038-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-038-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 

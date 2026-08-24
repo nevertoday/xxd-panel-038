@@ -20,26 +20,6 @@
 
 The photograph's unspoken relation becomes a contemporary patchwork of checks, cotton, linen, washed burlap, frayed edges, patches, and visible hand stitching. Whitespace carries companionship, distance, growth, waiting, belonging, encounter, or time.
 
-## Why this Skill exists
-
-The style is source-dependent, not a decorative preset. Its operative transformation is:
-
-```text
-read the unspoken relation → preserve three recognition cues → delete literal scenery → cut essential forms into source-colour fabrics → layer, crop, overlap, and let selected forms escape → make stitching and frayed edges physical → reserve whitespace for distance and time → embroider one unfinished-feeling phrase
-```
-
-If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- Preserve at least three source cues while simplifying figures, animals, objects, buildings, or landscapes into meaningful cloth shapes.
-- Use real checks, cotton, linen, washed burlap, patch cloth, frayed fibres, hand stitches, cross-stitches, and slight irregular joins with editorial restraint.
-- Derive a different warm, clear, humanist textile palette from every source; preserve its temperature and one lively focus instead of applying beige, brown, Morandi, or artificial ageing.
-- Use asymmetry, overlap, cropping, escape beyond a local patch area, and broad active whitespace to express companionship, distance, growth, waiting, belonging, encounter, or time.
-- Handmade character must come from fibre and sewing, not stains, yellowing, dirt, or a children's craft-class finish.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/038-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-038-prompt.en.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090807474467291568) · 2026-08-21<br>
@@ -59,6 +39,26 @@ Aesthetic constraints and rejection rules live only in the [original source brie
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090807474467291568">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 038 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+The style is source-dependent, not a decorative preset. Its operative transformation is:
+
+```text
+read the unspoken relation → preserve three recognition cues → delete literal scenery → cut essential forms into source-colour fabrics → layer, crop, overlap, and let selected forms escape → make stitching and frayed edges physical → reserve whitespace for distance and time → embroider one unfinished-feeling phrase
+```
+
+If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- Preserve at least three source cues while simplifying figures, animals, objects, buildings, or landscapes into meaningful cloth shapes.
+- Use real checks, cotton, linen, washed burlap, patch cloth, frayed fibres, hand stitches, cross-stitches, and slight irregular joins with editorial restraint.
+- Derive a different warm, clear, humanist textile palette from every source; preserve its temperature and one lively focus instead of applying beige, brown, Morandi, or artificial ageing.
+- Use asymmetry, overlap, cropping, escape beyond a local patch area, and broad active whitespace to express companionship, distance, growth, waiting, belonging, encounter, or time.
+- Handmade character must come from fibre and sewing, not stains, yellowing, dirt, or a children's craft-class finish.
+
+Aesthetic constraints and rejection rules live only in the [original source brief](references/038-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-038-prompt.en.md)
 
 ## The original brief is authoritative
 

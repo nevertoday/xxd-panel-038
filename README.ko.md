@@ -20,26 +20,6 @@
 
 사진이 말하지 않은 관계를 체크 면, 리넨, 워싱된 거친 천, 올 풀린 가장자리, 패치와 보이는 손바느질의 현대 패치워크로 재구성합니다. 여백은 동행, 거리, 성장, 머묾, 소속, 우연한 만남과 시간을 담당합니다.
 
-## 이 Skill이 필요한 이유
-
-이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
-
-```text
-read the unspoken relation → preserve three recognition cues → delete literal scenery → cut essential forms into source-colour fabrics → layer, crop, overlap, and let selected forms escape → make stitching and frayed edges physical → reserve whitespace for distance and time → embroider one unfinished-feeling phrase
-```
-
-무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
-
-## 시각적 원칙
-
-- **원본 결속:** 사진을 따뜻한 휴머니스트 패치워크 이야기로 다시 꿰매기
-- **스타일 DNA:** 원본 기반 천색 · 올 풀린 가장자리 · 손바느질 · 능동적 여백 · 숨은 감정
-- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
-- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
-- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
-
-미적 제약과 금지 항목은 [원본 프롬프트](references/038-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-038-prompt.en.md)
-
 ## 예시 · X에서
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090807474467291568) · 2026-08-21<br>
@@ -59,6 +39,26 @@ read the unspoken relation → preserve three recognition cues → delete litera
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090807474467291568">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 038의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+read the unspoken relation → preserve three recognition cues → delete literal scenery → cut essential forms into source-colour fabrics → layer, crop, overlap, and let selected forms escape → make stitching and frayed edges physical → reserve whitespace for distance and time → embroider one unfinished-feeling phrase
+```
+
+무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- **원본 결속:** 사진을 따뜻한 휴머니스트 패치워크 이야기로 다시 꿰매기
+- **스타일 DNA:** 원본 기반 천색 · 올 풀린 가장자리 · 손바느질 · 능동적 여백 · 숨은 감정
+- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
+- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
+- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
+
+미적 제약과 금지 항목은 [원본 프롬프트](references/038-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-038-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
