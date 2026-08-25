@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> SOURCE FABRIC · FRAYED EDGE · HAND STITCH · ACTIVE WHITESPACE · HIDDEN FEELING
-
-The photograph's unspoken relation becomes a contemporary patchwork of checks, cotton, linen, washed burlap, frayed edges, patches, and visible hand stitching. Whitespace carries companionship, distance, growth, waiting, belonging, encounter, or time.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090807474467291568) · 2026-08-21<br>
-> GPT2 x 布艺 x 情绪 x 美学提示词 x VOL.038
 
 <table>
   <tr>
@@ -36,9 +27,18 @@ The photograph's unspoken relation becomes a contemporary patchwork of checks, c
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090807474467291568) · 2026-08-21<br>
+> GPT2 x 布艺 x 情绪 x 美学提示词 x VOL.038
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090807474467291568">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 038 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> SOURCE FABRIC · FRAYED EDGE · HAND STITCH · ACTIVE WHITESPACE · HIDDEN FEELING
+
+The photograph's unspoken relation becomes a contemporary patchwork of checks, cotton, linen, washed burlap, frayed edges, patches, and visible hand stitching. Whitespace carries companionship, distance, growth, waiting, belonging, encounter, or time.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 038 right for you?
