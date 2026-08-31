@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 038
+# 🦁 XXD Panel 038｜纺织生活志
 
 ### 把照片重新缝成一段温暖的人文拼布故事
 

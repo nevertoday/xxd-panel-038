@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 038
+# 🦁 XXD Panel 038｜직물 생활 저널
 
 ### 사진을 따뜻한 휴머니스트 패치워크 이야기로 다시 꿰매기
 

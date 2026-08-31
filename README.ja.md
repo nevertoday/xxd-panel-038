@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 038
+# 🦁 XXD Panel 038｜織物の暮らし手帳
 
 ### 写真を、温かな人文的パッチワーク物語へ縫い直す
 

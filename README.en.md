@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 038
+# 🦁 XXD Panel 038｜Textile Life Journal
 
 ### Re-sew the photograph as a warm humanist patchwork story
 
