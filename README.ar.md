@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 038 project banner" width="1200"></p>
-
 <div align="center" dir="rtl">
 
 # 🦁 XXD Panel 038｜دفتر حياة النسيج
