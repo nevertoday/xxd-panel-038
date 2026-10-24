@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 038｜Textile Life Journal: re-sews the photo's subject and the quiet feeling behind it as a warm hand-made patchwork appliqué — gingham cotton, linen, washed burlap and patch scraps cut into simple shapes, with frayed edges, visible running and cross stitches and slightly irregular seams, arranged with generous whitespace and pieces that grow past the patchwork area. Soft fabric colours are adapted from each photo, with one stronger accent. A very short phrase about the unspoken mood is embroidered or hand-stitched along the shapes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-038 or asks for patchwork, quilt, fabric appliqué or stitched textile illustration from a photo.",
+  "short_description": "纺织生活志：把照片和它背后的情绪，缝成一幅带毛边和针脚的温暖拼布贴画",
+  "zh-CN": {
+    "name": "纺织生活志",
+    "tagline": "把照片和它没说出口的情绪，缝成一幅温暖的手工拼布贴画。",
+    "look": "照片里最重要的形态和关系被剪成简单的布片：格纹棉布、亚麻、水洗粗麻和补丁布，边缘留着毛边，看得见针脚、交叉缝线和略不规则的拼接。布片疏密不一，周围留出大片空白，枝叶、人物动作或物件边缘可以伸出拼布区域。颜色从每张照片里取，柔化成清爽的布艺色，主体保留一处更鲜明的颜色。文字是一句很短、像没说完的话，写的是照片背后的情绪，用细线刺绣或手缝线迹顺着形状走。",
+    "traits": ["拼布", "毛边", "手缝针脚", "源图布色", "隐藏情绪"],
+    "good": [
+      "带陪伴或停留感的生活瞬间：两人并肩坐着、老人和猫、窗边等人",
+      "形态简单的日常物件和植物：一把椅子、一盆绿植、一只茶壶",
+      "想做成家庭纪念、生活杂志插图或温暖贺卡的照片"
+    ],
+    "poor": [
+      "细节密集、要精确还原的图：机械、电子产品、复杂建筑",
+      "人很多、关系不清楚的热闹场面",
+      "想要儿童手工课、刻意做旧泛黄或光滑数码插画的效果"
+    ]
+  },
+  "en": {
+    "name": "Textile Life Journal",
+    "tagline": "Sews your photo and the feeling it leaves unsaid into a warm hand-made patchwork picture.",
+    "look": "The key shapes and relationships in the photo are cut from simple pieces of fabric: gingham cotton, linen, washed burlap and patches, with frayed edges, visible stitches, cross-stitched seams and slightly irregular joins. The pieces are placed loosely with plenty of open space, and branches, a moving arm or the edge of an object can reach out past the patchwork. Colours come from each photo and are softened into fresh fabric tones, with one brighter accent on the subject. The text is one very short, unfinished-sounding line about the mood behind the photo, embroidered or hand-stitched along the shapes.",
+    "traits": ["Patchwork", "Frayed edges", "Hand stitching", "Fabric colours from the photo", "Hidden feeling"],
+    "good": [
+      "Everyday moments of company or lingering: two people sitting side by side, an old man and a cat, someone waiting by a window",
+      "Simple everyday objects and plants: a chair, a potted plant, a teapot",
+      "Photos for a family keepsake, a lifestyle-magazine illustration or a warm greeting card"
+    ],
+    "poor": [
+      "Detailed images that must be reproduced exactly: machinery, electronics, complex architecture",
+      "Busy crowds where the relationships are unclear",
+      "Requests for a children's craft look, deliberately yellowed ageing or smooth digital illustration"
+    ]
+  },
+  "ja": {
+    "name": "織物の暮らし手帳",
+    "tagline": "写真と、写真が口にしない気持ちを、温かな手づくりのパッチワークに縫い上げます。",
+    "look": "写真の大事な形と関係を、ギンガムの木綿、リネン、洗いざらしの麻、つぎ布といったシンプルな布片で切り出します。縁はほつれ、針目やクロスステッチ、少し不揃いな継ぎ目が見えます。布片は疎密をつけて置き、まわりに大きな余白を残し、枝葉や人の動き、物の縁はパッチワークの外へはみ出すこともあります。色は一枚ごとに写真から取り、柔らかく爽やかな布の色にして、主役に一か所だけはっきりした色を残します。文字は写真の奥にある気持ちを表す、言いかけのようなごく短い一言で、細い刺繍や手縫いの線で形に沿って入ります。",
+    "traits": ["パッチワーク", "ほつれた縁", "手縫いの針目", "写真から取った布の色", "隠れた気持ち"],
+    "good": [
+      "寄り添いやたたずまいを感じる日常の瞬間：並んで座る二人、老人と猫、窓辺で誰かを待つ人",
+      "形のシンプルな日用品や植物：椅子、鉢植え、ティーポット",
+      "家族の記念、暮らしの雑誌の挿絵、温かいカードにしたい写真"
+    ],
+    "poor": [
+      "正確な再現が必要な細かい画像：機械、電子機器、複雑な建築",
+      "人が多く関係がはっきりしないにぎやかな場面",
+      "子どもの工作風、わざとらしい黄ばみの古び、つるっとしたデジタルイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "직물 생활 저널",
+    "tagline": "사진과 사진이 말하지 않은 감정을 따뜻한 손바느질 패치워크 그림으로 꿰맵니다.",
+    "look": "사진의 중요한 형태와 관계를 깅엄 면, 리넨, 워싱한 거친 마, 덧댄 천 같은 단순한 천 조각으로 오려 냅니다. 가장자리는 올이 풀려 있고 바늘땀, 십자 스티치, 조금 고르지 않은 이음새가 보입니다. 천 조각은 성기고 촘촘하게 놓이고 주변에 넓은 여백을 두며, 나뭇가지나 사람의 동작, 물건의 가장자리는 패치워크 밖으로 뻗어 나가기도 합니다. 색은 사진마다 가져와 부드럽고 산뜻한 천 색으로 바꾸고, 주인공에 한 군데만 더 선명한 색을 남깁니다. 글자는 사진 뒤의 감정을 담은, 말을 다 끝내지 않은 듯한 아주 짧은 한마디로, 가는 자수나 손바느질 선으로 형태를 따라 들어갑니다.",
+    "traits": ["패치워크", "올 풀린 가장자리", "손바느질 땀", "사진에서 온 천 색", "숨은 감정"],
+    "good": [
+      "곁에 있음이나 머묾이 느껴지는 일상의 순간: 나란히 앉은 두 사람, 노인과 고양이, 창가에서 누군가를 기다리는 사람",
+      "형태가 단순한 일상 사물과 식물: 의자, 화분, 찻주전자",
+      "가족 기념, 생활 잡지 삽화, 따뜻한 카드로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "정확히 재현해야 하는 세밀한 이미지: 기계, 전자 제품, 복잡한 건축",
+      "사람이 많고 관계가 분명하지 않은 북적이는 장면",
+      "아이들 만들기 수업 느낌, 일부러 누렇게 낡힌 효과, 매끈한 디지털 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر حياة النسيج",
+    "tagline": "يخيط صورتك والإحساس الذي لا تقوله في لوحة رقع دافئة مصنوعة باليد.",
+    "look": "تُقص الأشكال والعلاقات الأهم في الصورة من قطع قماش بسيطة: قطن مربعات وكتان وخيش مغسول ورقع، بحواف منسلّة وغرز ظاهرة وخياطة متقاطعة ووصلات غير منتظمة قليلاً. تتوزع القطع بكثافات مختلفة مع فراغ واسع حولها، وقد تمتد أغصان أو حركة ذراع أو حافة شيء خارج منطقة الرقع. تُؤخذ الألوان من كل صورة وتُليَّن إلى ألوان قماش منعشة، مع لون أوضح واحد على الموضوع. النص سطر قصير جداً كأنه كلام لم يكتمل، عن الشعور الكامن خلف الصورة، مطرّز بخيط رفيع أو مخيط باليد على امتداد الأشكال.",
+    "traits": ["رقع", "حواف منسلّة", "غرز يدوية", "ألوان قماش من الصورة", "شعور خفي"],
+    "good": [
+      "لحظات يومية فيها رفقة أو انتظار: شخصان جالسان جنباً إلى جنب، رجل مسن وقطة، شخص ينتظر قرب نافذة",
+      "أشياء ونباتات يومية بسيطة الشكل: كرسي، نبتة في أصيص، إبريق شاي",
+      "صور لتذكار عائلي أو رسم لمجلة أسلوب حياة أو بطاقة تهنئة دافئة"
+    ],
+    "poor": [
+      "صور مفصّلة يجب نقلها بدقة: الآلات، الأجهزة الإلكترونية، العمارة المعقدة",
+      "حشود صاخبة لا تتضح فيها العلاقات",
+      "طلب مظهر أشغال يدوية للأطفال أو تعتيق مصفرّ متعمد أو رسم رقمي أملس"
+    ]
+  }
+}
